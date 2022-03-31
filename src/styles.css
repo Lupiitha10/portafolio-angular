@@ -1,6 +1,11 @@
 /* Estilos de mi aplicación */
 
-
+/* SVG Animation */
+svg path,
+svg rect{
+  fill: black;
+}
+/* Animaciones */
 .animated {
     -webkit-animation-duration: 0.3s;
     animation-duration: 0.3s;
